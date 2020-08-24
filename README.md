@@ -1,4 +1,4 @@
-# Repo main moto
+# Repo main aim
 I know it's difficult to learn a new language(golang) especially if you come from a dynamic typed language(Python). This repository can teach you understand the difference between python vs golang.
 
 **Note: This repo main aim is to teach you the differrence between Python vs Golang. However, it won't judge of thier need**
