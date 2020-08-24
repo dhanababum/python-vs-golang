@@ -27,3 +27,17 @@ I know it's difficult to learn a new language(golang) especially if you come fro
 for i in range(10):
     print(f"number {i}")
 ```
+## Go
+* readability and usability (like Python or JavaScript)
+* Go's syntax includes changes from C aimed at keeping code concise and readable.
+### Example
+```
+package main
+import "fmt"
+func main() {
+     nums := []int{1, 2, 3}
+     for i := range nums {
+         fmt.Println("number ", i)
+     }
+}
+```
