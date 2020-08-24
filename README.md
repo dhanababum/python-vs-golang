@@ -17,3 +17,13 @@ I know it's difficult to learn a new language(golang) especially if you come fro
 * Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 * Go is a statically typed, compiled programming language designed at Google.
 * Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+
+# Language Syntax
+## Python
+* Python is meant to be an easily readable language.
+* Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks.
+### Example
+```
+for i in range(10):
+    print(f"number {i}")
+```
